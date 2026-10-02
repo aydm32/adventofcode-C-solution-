@@ -1,5 +1,5 @@
 
-"""" Adventofcode 2025 day4_part1 solution """
+"""" Adventofcode 2025 day4 part1 solution """
 
 
 with open("puzzle_input_1.txt") as file: 
